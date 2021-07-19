@@ -1,0 +1,8 @@
+//
+// Created by CF on 2021/7/19.
+//
+
+#ifndef QUICKJS_CMAKE_QUICKJS_H
+#define QUICKJS_CMAKE_QUICKJS_H
+
+#endif //QUICKJS_CMAKE_QUICKJS_H
