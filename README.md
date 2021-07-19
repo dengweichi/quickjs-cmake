@@ -1,2 +1,2 @@
 # quickjs-learn
-quick.js学习文档
+quickjs cmake构建
